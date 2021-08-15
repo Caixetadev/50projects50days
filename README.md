@@ -17,3 +17,23 @@
 #### O que aprendi 
 - Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/cursor">Cursor: not-allowed</a>
 - Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction">Dom Js</a>
+
+### Challange03:
+<img src=https://github.com/Caixetadev/50projects50days/blob/main/screenshots/challenge03.gif>
+
+#### O que aprendi 
+- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform">Transform</a>
+- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition">Transition</a>
+
+### Challange04:
+<img src=https://github.com/Caixetadev/50projects50days/blob/main/screenshots/challenge04.gif>
+
+#### O que aprendi 
+- Uso de <a href="https://developer.mozilla.org/en-US/docs/Web/API/DOMTokenList/toggle">Toggle</a>
+
+### Challange05:
+<img src=https://github.com/Caixetadev/50projects50days/blob/main/screenshots/challenge05.gif>
+
+#### O que aprendi 
+- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript">JavaScript básico</a>
+
