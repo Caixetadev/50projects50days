@@ -41,8 +41,7 @@
 <img src=https://github.com/Caixetadev/50projects50days/blob/main/screenshots/challenge06.gif>
 
 #### O que aprendi 
-- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform">Transform</a>
-- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition">Transition</a>
+c
 
 ### Challange07:
 <img src=https://github.com/Caixetadev/50projects50days/blob/main/screenshots/challenge07.gif>
@@ -50,3 +49,11 @@
 #### O que aprendi 
 - Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/API/Element/mouseenter_event">Mouse Enter</a>
 - Uso de <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/mouseleave_event">Mouse Leave</a>
+
+### Challange08:
+<img src=https://github.com/Caixetadev/50projects50days/blob/main/screenshots/challenge08.gif>
+
+#### O que aprendi 
+- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform">Transform</a>
+- Uso de <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition">Transition</a>
+
